@@ -28,9 +28,9 @@ def send_welcome(message):
     log(message)
     bot.reply_to(message, "Hello " + message.chat.first_name + " Welcome To Tiktok Downloader Bot\n\n"
                                                                "How To Use :\n"
-                                                               "1. Send Your link Video,\n"
-                                                               "2. Waiting and Bot sent to you Video\n\n"
-                                                               "Author : <a href='https://t.me/Sandroputraaa'>Sandro Putraa</a>",
+                                                               "1. Paste link video tiktok,\n"
+                                                               "2. Tunggu dan bot akan mengirim videonya\n\n"
+                                                               "Author : <a href='https://t.me/YugoslavBot'>RAF DEV</a>",
                  disable_web_page_preview=True)
 
 
